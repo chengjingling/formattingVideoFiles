@@ -1,0 +1,33 @@
+Cosmos_War_of_the_Planets.mp4
+Frame rate is 29.97 fps instead of 25 fps
+Aspect ratio is 314:177 instead of 16:9
+Resolution is 628x354 instead of 640x360
+Audio bit rate is 317 kb/s, should be a maximum of 256 kb/s
+
+Last_man_on_earth_1964.mov
+Video format (container) is mov instead of mp4
+Video codec is prores instead of h264
+Audio codec is pcm_s16le instead of aac
+Frame rate is 23.98 fps instead of 25 fps
+Video bit rate is 9285 kb/s, should be between 2000-5000 kb/s
+Audio bit rate is 1536 kb/s, should be a maximum of 256 kb/s
+
+The_Gun_and_the_Pulpit.avi
+Video format (container) is avi instead of mp4
+Video codec is rawvideo instead of h264
+Audio codec is pcm_s16le instead of aac
+Aspect ratio is 180:101 instead of 16:9
+Resolution is 720x404 instead of 640x360
+Video bit rate is 87438 kb/s, should be between 2000-5000 kb/s
+Audio bit rate is 1536 kb/s, should be a maximum of 256 kb/s
+
+The_Hill_Gang_Rides_Again.mp4
+Video bit rate is 7537 kb/s, should be between 2000-5000 kb/s
+
+Voyage_to_the_Planet_of_Prehistoric_Women.mp4
+Video codec is hevc instead of h264
+Audio codec is mp3 instead of aac
+Frame rate is 29.97 fps instead of 25 fps
+Video bit rate is 8038 kb/s, should be between 2000-5000 kb/s
+Audio bit rate is 320 kb/s, should be a maximum of 256 kb/s
+
